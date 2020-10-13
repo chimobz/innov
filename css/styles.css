@@ -10070,6 +10070,7 @@ img::-moz-selection {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
+  height: 80px;
   background-color: #212529;
 }
 #mainNav .navbar-toggler {
